@@ -1,1 +1,1 @@
-draw_text(x,y, "info.exe");
+draw_text(x,y+5, "info.exe");

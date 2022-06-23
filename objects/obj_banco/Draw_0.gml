@@ -1,5 +1,3 @@
-draw_sprite_ext(spr_banco,0,x,y,2,2,0,noone,1);
+draw_sprite_ext(spr_banco,index,x,y,1.5,1.5,0,noone,1);
 
-if(mouse_check_button(mb_left)){
-	draw_sprite_ext(spr_TextBox,0,x+20,y,)
-}
+draw_text(x-10,y+55,"bank.exe");
