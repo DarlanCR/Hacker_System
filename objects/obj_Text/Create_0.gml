@@ -11,11 +11,12 @@ txtb_spr = spr_Box;
 
 page = 0;
 page_number = 0;
-text[0] = "Carla me disse que os investigadores nao conseguiram acessar o computador...";
-text[1] = "E todos os dados dos possiveis usuarios, foram retirados de suas publicacoes nas redes socias...";
-text[2] = "Provalmente alguma dessas informacoes foi usado como senha..."
-text[3] = "..."
-text[4] = "Esses dados ja estao no nosso sistema!"
+text[0] = "Eles precisao da movimentacao bancaria da vitima...";
+text[1] = "Carla me disse que os investigadores nao conseguiram acessar o computador...";
+text[2] = "E todos os dados dos possiveis usuarios, foram retirados de suas publicacoes nas redes socias...";
+text[3] = "Provalmente alguma dessas informacoes foi usado como senha..."
+text[4] = "..."
+text[5] = "Esses dados ja estao no nosso sistema!"
 
 text_length[0]= string_length(text[0]);
 draw_char = 0;

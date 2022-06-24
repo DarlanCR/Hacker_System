@@ -1,2 +1,2 @@
 mensagem = "Codigo de autenticacao enviado no email";
-senha = global.senha;
+global.cripto = base64_encode("pi2022");

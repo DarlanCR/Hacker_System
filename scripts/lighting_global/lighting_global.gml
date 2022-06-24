@@ -147,13 +147,13 @@ function lighting_global() {
 		// Internal
 		VertexBuffer,
 		ShadowMap,					// This light's shadow map surface, if it has a unique shadow map
-		StaticStorage,				// Static storage to hold info for static shadow casters to avoid rebuilding them
+		StaticStorage,				// Static storage to hold botao for static shadow casters to avoid rebuilding them
 		ShadowCastersOutOfRange,	// A set of static shadow casters that are known to be out of range of this light; only applies to static shadow casters
 		CulledShadowCasters,		// A set of shadow casters that have been culled from this light because they don't affect the global shadow map; culled against the camera, not the light
 		ActiveCamera,				// The camera this light was last updated for, this is the camera array [X, Y, Width, Height]
 	
 		// The number of light fields (this must be the last enum field)
-		// This makes it easier to deal with arrays that contain this information
+		// This makes it easier to deal with arrays that contain this botaormation
 		Count
 	}
 
@@ -204,7 +204,7 @@ function lighting_global() {
 		Reset,		// The script that is called to clean up after the extension has been applied to a light
 	
 		// The number of extension module fields (this must be the last enum field)
-		// This makes it easier to deal with arrays that contain this information
+		// This makes it easier to deal with arrays that contain this botaormation
 		Count
 	}
 
@@ -239,7 +239,7 @@ function lighting_global() {
 		Length,			// The length (in # of points) of the polygon
 	
 		// The number of polygon fields (this must be the last enum field)
-		// This makes it easier to deal with arrays that contain this information
+		// This makes it easier to deal with arrays that contain this botaormation
 		Count
 	}
 
@@ -249,7 +249,7 @@ function lighting_global() {
 		Y,				// The Y position of this vertex
 	
 		// The number of polygon fields (this must be the last enum field)
-		// This makes it easier to deal with arrays that contain this information
+		// This makes it easier to deal with arrays that contain this botaormation
 		Count
 	}
 

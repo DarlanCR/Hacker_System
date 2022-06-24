@@ -1,8 +1,8 @@
-nome = "Altieres Silva";
-data = "28/07/1993";
-gosta = "Valorant";
-pet = "Gata";
-frequenta = "Mocambo";
+nome = "Ana Clara";
+data = "22/10/1998";
+gosta = "Skate";
+pet = "Coelho";
+frequenta = "Cinema";
 
 image_xscale = 10;
 image_yscale = 10;

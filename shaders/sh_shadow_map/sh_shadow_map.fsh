@@ -19,7 +19,7 @@ varying vec4 v_vColour;
 // The ambient shadow color and intensity
 uniform float u_AmbientShadow;
 
-// Texel information
+// Texel botaormation
 uniform vec2 u_TexelSize;
 
 // Blend the fragment into the shadow map

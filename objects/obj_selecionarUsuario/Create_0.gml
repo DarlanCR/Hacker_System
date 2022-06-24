@@ -77,16 +77,17 @@ if(global.numero == 1){
 	}
 } else if(global.numero == 4){
 	if(global.dica == 1){
-		global.senha = "altieressilva";
+		global.senha = "anaclara";
 	} else if(global.dica == 2){
-		global.senha = "28071993";
+		global.senha = "22101998";
 	} else if(global.dica == 3){
-		global.senha = "valorant";
+		global.senha = "skate";
 	} else if(global.dica == 4){
-		global.senha = "gata";
+		global.senha = "coelho";
 	} else if(global.dica == 5){
-		global.senha = "mocambo";
+		global.senha = "cinema";
 	}
+
 }
 
 

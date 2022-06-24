@@ -128,7 +128,7 @@ function light_update(argument0) {
 				var shadow_caster_dirty = (flags & eShadowCasterFlags.Dirty) != 0;
 				var shadow_caster_static = (flags & eShadowCasterFlags.Static) != 0;
 	
-				// If the shadow caster is static and it isn't dirty, do we have cached information to cull it?
+				// If the shadow caster is static and it isn't dirty, do we have cached botaormation to cull it?
 				if(shadow_caster_static && !shadow_caster_dirty) {
 					// Is this shadow caster known to be out of range of this light?
 					// Directional lights are infinite so exclude those
@@ -262,7 +262,7 @@ function light_update(argument0) {
 			var shadow_caster_dirty = (flags & eShadowCasterFlags.Dirty) != 0;
 			var shadow_caster_static = (flags & eShadowCasterFlags.Static) != 0;
 	
-			// If the shadow caster is static and it isn't dirty, do we have cached information to cull it?
+			// If the shadow caster is static and it isn't dirty, do we have cached botaormation to cull it?
 			if(shadow_caster_static && !shadow_caster_dirty) {
 				// Is this shadow caster known to be out of range of this light?
 				// Directional lights are infinite so exclude those

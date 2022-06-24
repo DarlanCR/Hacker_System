@@ -1,5 +1,5 @@
-if(obj_cripto.mensagem == "Acesso ao 'bank.exe' liberado!"){
-	room_goto(Room1);
+if(codigo == global.acesso){
+	room_goto(Room5);
 } else{
 	mensagem = "Senha incorreta";
 }

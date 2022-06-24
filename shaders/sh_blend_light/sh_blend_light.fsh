@@ -49,7 +49,7 @@ uniform int u_LightType;
 uniform vec2 u_LineEmitterPoint1;		// The first point on the line of the area light
 uniform vec2 u_LineEmitterPoint2;		// The second point on the line of the area light
 
-// Texel information
+// Texel botaormation
 uniform vec2 u_TexelSize;
 
 //

@@ -20,7 +20,7 @@ function polygon_from_instance() {
 			set[3] = [bbox_left, bbox_bottom];
 		}
 		else {
-			// Rotate the instance; this relies on the sprite information
+			// Rotate the instance; this relies on the sprite botaormation
 			set[0] = [x,				 y];
 			set[1] = [x + sprite_width,  y];
 			set[2] = [x + sprite_width,  y + sprite_height];
