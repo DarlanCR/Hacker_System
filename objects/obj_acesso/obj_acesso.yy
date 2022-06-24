@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_Placeholder",
-    "path": "sprites/spr_Placeholder/spr_Placeholder.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -22,18 +19,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room2",
-    "path": "folders/Objects/Room2.yy",
+    "name": "Room4",
+    "path": "folders/Objects/Room4.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dados",
+  "name": "obj_acesso",
   "tags": [],
   "resourceType": "GMObject",
 }

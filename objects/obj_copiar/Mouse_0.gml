@@ -1,0 +1,1 @@
+mensagem = "Chave copiada";

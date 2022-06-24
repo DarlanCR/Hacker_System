@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite50",
+    "path": "sprites/Sprite50/Sprite50.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -19,7 +22,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -28,7 +31,7 @@
     "path": "folders/Objects/Room2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_txtdados",
+  "name": "obj_descripto",
   "tags": [],
   "resourceType": "GMObject",
 }

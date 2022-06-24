@@ -1,0 +1,1 @@
+cripto = base64_encode("aZzndpX%j");
